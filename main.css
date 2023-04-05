@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    color: #d4d4d4;
+}
+
+.navbar {
+    background-color: #444343;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #00ff009c;
+    color: #fff;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-hard .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #00ff009c;
+}
+
+.section-title {
+    font-family: 'Bungee', cursive;
+    color: #fff;
+}
+
+#sobre-a-loja, #hard {
+    background-color:  #303030;
+}
+
+#eventos {
+    background-color: #444343;
+}
+
+#linha {
+    border: 1px solid #00ff009c;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+.text-colored {
+    color: #00ff009c;
+}
+
+.nav-hard .nav-link.active,
+#contato button {
+    background-color: #00ff009c;
+    color: #fff;
+}
+
+.nav-hard .nav-link:hover {
+    color: #00ff009c;
+}
+
+#contato {
+    background-color: #444343;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;   
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #000;
+    font-size: small;
+    text-align: center;
+}
+
+@media (max-width:767px){
+    
+}
